@@ -1,0 +1,43 @@
+body{
+    margin: 0;
+    background-color: rgb(94, 92, 92);
+    text-align: center;
+}
+
+input{
+  margin-left:5% ;
+  width: 60%;
+  height: 10%;
+  font-size: 20px;
+  border-radius: 5em;
+  padding-left: 2%;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  border: none;
+  
+}
+#new-task-input{
+    margin-left: 20%;
+    float:var(200px);
+    width: 60%;
+}
+#new-task-submit{
+   font-size: 15px;
+    width: 10%;
+    height: 10%;
+    border-radius: 5em;
+    border: none;
+    background-color: rgb(254, 99, 42);
+    cursor: pointer;
+    float: inline-end;
+}
+#new-task-submit,button{
+    width: 10%;
+    height: 10%;
+    border-radius: 5em;
+    border: none;
+    background-color: rgb(254, 99, 42);
+    cursor: pointer;
+    
+ 
+}
+
